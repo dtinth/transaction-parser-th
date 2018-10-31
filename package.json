@@ -20,7 +20,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "rm -rf lib && tsc"
   },
   "repository": {
     "type": "git",
