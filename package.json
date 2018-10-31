@@ -11,5 +11,25 @@
   "files": [
     "lib"
   ],
-  "main": "./lib/index"
+  "main": "./lib/index",
+  "name": "transaction-parser-th",
+  "description": "A JS library that can be used to parse transaction information from SMS messages.",
+  "version": "0.1.0",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtinth/transaction-parser-th.git"
+  },
+  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com> (http://dt.in.th/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtinth/transaction-parser-th/issues"
+  },
+  "homepage": "https://github.com/dtinth/transaction-parser-th#readme"
 }
