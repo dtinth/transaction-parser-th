@@ -14,7 +14,7 @@
   "main": "./lib/index",
   "name": "transaction-parser-th",
   "description": "A JS library that can be used to parse transaction information from SMS messages.",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "directories": {
     "lib": "lib",
     "test": "test"
